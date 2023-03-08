@@ -37,7 +37,7 @@ Q: Why isn't the script executing?
 A: This may be because of many factors. 
 Factor 1,𝐘𝐨𝐮 𝐜𝐨𝐩𝐢𝐞𝐝 𝐭𝐡𝐞 𝐰𝐫𝐨𝐧𝐠 𝐜𝐨𝐝𝐞 or you only copied partial code. 
 Factor 2, 𝕋𝕙𝕖 𝕤𝕔𝕣𝕚𝕡𝕥 𝕚𝕤 𝕓𝕣𝕠𝕜𝕖𝕟, contact me through gmail or github. My gmail: 
-Ijustescapedyesterday@gmail.com
+KepNest@gmail.com
 Factor 3: 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙄𝙨𝙨𝙪𝙚𝙨. Try rebooting your computer or logging in on blooket to your
 account that is unbanned. Has to be a student account in order to work.
 Factor 4: 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐯𝐞 𝐈𝐬𝐬𝐮𝐞𝐬. Try using another browser (EG: Chrome, Edge Firefox) that could 
@@ -70,8 +70,8 @@ Got any more questions? File an issue on github and we'll respond within 24 hour
 🎩 Main scripter for Gui:  Kep 2.0  
 🎓 Side Scripters: Helix, Stychter, Metainly223
 
-Link for our Twitch: Visit https://www.twitch.tv/kepnest
-
+Link for our Twitch: Visit [
+](https://www.twitch.tv/kepnest)
  _      _ _          _   _            _____                      _ _                    
  | |    (_) |        | | | |          |  __ \                    (_) |                   
  | |     _| | _____  | |_| |__   ___  | |__) |___ _ __   ___  ___ _| |_ ___  _ __ _   _  
