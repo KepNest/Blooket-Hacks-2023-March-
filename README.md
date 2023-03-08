@@ -1,4 +1,6 @@
-# Blooket Hacks (Updated 3/5/2023) Current Status: Working ✔
+(https://www.twitch.tv/kepnest)
+
+[# Blooket Hacks (Updated 3/5/2023) Current Status: Working ✔
 This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
 █▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▓▒░𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙚𝙫𝙚𝙧𝙮 𝙬𝙚𝙚𝙠!░▒▓█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█
 ~~~~~~~~~~~ Why You should use this gui : ~~~~~~~~~~~       ~~~~~~~~~Features of This GUI: ~~~~~~~~~~~~~
@@ -70,7 +72,6 @@ Got any more questions? File an issue on github and we'll respond within 24 hour
 🎩 Main scripter for Gui:  Kep 2.0  
 🎓 Side Scripters: Helix, Stychter, Metainly223
 
-Link for our Twitch: ['https://www.twitch.tv/kepnest']
  _      _ _          _   _            _____                      _ _                    
  | |    (_) |        | | | |          |  __ \                    (_) |                   
  | |     _| | _____  | |_| |__   ___  | |__) |___ _ __   ___  ___ _| |_ ___  _ __ _   _  
@@ -90,7 +91,7 @@ Link for our Twitch: ['https://www.twitch.tv/kepnest']
  | |  __| |__     | |    | |_) | |__     | |     | |  | |__  | |__) | | (___ | |    | |__) | | | | |__) | | | | (___ | |
  | | |_ |  __|    | |    |  _ <|  __|    | |     | |  |  __| |  _  /   \___ \| |    |  _  /  | | |  ___/  | |  \___ \| |
  | |__| | |____   | |    | |_) | |____   | |     | |  | |____| | \ \   ____) | |____| | \ \ _| |_| |      | |  ____) |_|
-  \_____|______|  |_|    |____/|______|  |_|     |_|  |______|_|  \_\ |_____/ \_____|_|  \_\_____|_|      |_| |_____/(_)
+  \_____|______|  |_|    |____/|______|  |_|     |_|  |______|_|  \_\ |_____/ \_____|_|  \_\_____|_|      |_| |_____/(_)]
 
                                                                                                                         
                                                                                                                         
