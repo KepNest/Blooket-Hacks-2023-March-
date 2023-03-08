@@ -1,7 +1,9 @@
 (https://www.twitch.tv/kepnest)
 
-[ # Blooket Hacks (Updated 3/5/2023) Current Status: Working ✔
-This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
+ # Blooket Hacks (Updated 3/5/2023) Current Status: Working ✔
+
+
+[This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
 
 
 █▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▓▒░𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙚𝙫𝙚𝙧𝙮 𝙬𝙚𝙚𝙠!░▒▓█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█
