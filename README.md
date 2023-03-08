@@ -70,7 +70,7 @@ Got any more questions? File an issue on github and we'll respond within 24 hour
 🎩 Main scripter for Gui:  Kep 2.0  
 🎓 Side Scripters: Helix, Stychter, Metainly223
 
-Link for our Twitch: [Visit](https://www.twitch.tv/kepnest)
+Link for our Twitch: ['https://www.twitch.tv/kepnest']
  _      _ _          _   _            _____                      _ _                    
  | |    (_) |        | | | |          |  __ \                    (_) |                   
  | |     _| | _____  | |_| |__   ___  | |__) |___ _ __   ___  ___ _| |_ ___  _ __ _   _  
